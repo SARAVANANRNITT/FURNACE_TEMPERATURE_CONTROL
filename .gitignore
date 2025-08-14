@@ -1,0 +1,47 @@
+# MATLAB generated files
+*.asv             # Autosave file
+*.mexa64           # MATLAB compiled mex files (Linux)
+*.mexw64           # MATLAB compiled mex files (Windows 64-bit)
+*.mexw32           # MATLAB compiled mex files (Windows 32-bit)
+*.mexmaci64        # MATLAB compiled mex files (Mac 64-bit)
+
+# Simulink generated files
+*.slxc             # Simulink compiled slx files
+*.slxp             # Simulink project files
+
+# MATLAB preferences and crash logs
+*.matlab
+*.mcr
+*.mlappinstall
+*.mexmaci
+*.mexglx
+*.sldd
+*.slddslx
+
+# Backup files
+*~
+*.asv
+*.bak
+*.old
+*.orig
+
+# Log files
+*.log
+
+# System files
+.DS_Store          # Mac system file
+Thumbs.db          # Windows system file
+
+# Temporary files
+*.tmp
+*.temp
+
+# Workspace and variables
+*.mat               # Large data files (optionally include if you don't want large workspace files)
+
+# Ignore output or build folders if any (uncomment if you have build directories)
+# /build/
+# /output/
+
+# Ignore code analysis reports (if any)
+code_coverage_reports/
