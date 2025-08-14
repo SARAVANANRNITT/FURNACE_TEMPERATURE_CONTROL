@@ -77,7 +77,9 @@ Contributions, suggestions, or improvements are welcome! Please create a pull re
 
 ## 📬 Contact
 **Author:** Saravanan R
+
 **LinkedIn:** https://www.linkedin.com/in/saravanan-r-nitt/
+
 **Email:** saravananraja6765965@gmail.com
 
 ---
