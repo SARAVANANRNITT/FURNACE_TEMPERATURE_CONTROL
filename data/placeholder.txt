@@ -1,0 +1,1 @@
+Raw or processed data files used for training, validation, or simulation inputs 
