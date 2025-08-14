@@ -56,12 +56,12 @@ The NN-based controller adapts PID gains in real time, showing:
 
 ## 📂 Repository Structure
 Furnace_Temperature_Control/
-│── README.md # Project description and usage
-│── LICENSE # Open-source license
-│── /models # Simulink models
-│── /data # Simulation data
-│── /docs # Documentation (P&ID, reports)
-│── /results # Simulation results and plots
+── README.md # Project description and usage
+── LICENSE # Open-source license
+── /models # Simulink models
+── /data # Simulation data
+── /docs # Documentation (P&ID, reports)
+── /results # Simulation results and plots
 
 ---
 
