@@ -85,5 +85,5 @@ This project develops a high-fidelity **DCU Furnace Temperature Control System**
 
 ---
 
-**Author:** *[Your Name]*  
-**Date Created:** *[Today’s Date]*  
+**Author:** *Saravanan R*  /
+**Date Created:** *14/08/2025* / 
