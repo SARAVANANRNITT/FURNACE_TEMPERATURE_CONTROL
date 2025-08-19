@@ -49,7 +49,7 @@ To address this challenge, a dynamic, closed-loop simulation was architected in 
 
 ### Visualizing the Model Architecture
 *(I will replace this with a screenshot of my top-level Simulink model)*
-![Simulink Model Diagram](https://i.imgur.com/your-image-link.png)
+![Simulink Model Diagram](https://i.imgur.com/my-image-link.png)
 *Caption: Top-level view of the modular furnace control simulation in Simulink.*
 
 ---
@@ -62,7 +62,7 @@ The baseline PID control strategy, when properly tuned using this model, success
 *   **Pressure Control:** The internal furnace pressure is maintained at a slight positive pressure (**~1.2 bar**) to ensure stable combustion and prevent air ingress.
 *   **Combustion Efficiency:** The flue gas oxygen content is controlled within the optimal **2-5%** range, indicating efficient and complete combustion.
 
-*(This section is a placeholder. Add your own simulation graphs for maximum impact!)*
+*(This section is a placeholder. I will add my own simulation graphs for maximum impact!)*
 
 | ![Furnace Outlet Temperature](https://i.imgur.com/graph1.png) | ![Fuel Flow Rate](https://i.imgur.com/graph2.png) |
 | :----------------------------------------------------------: | :----------------------------------------------------: |
@@ -111,10 +111,15 @@ This project is not static. It is an evolving platform for demonstrating cutting
 
 ## 📂 Repository Structure
 FURNACE_TEMPERATURE_CONTROL/
+
 ├── README.md # You are here!
+
 ├── LICENSE # The MIT License for this project
+
 └── models/
+
 └── furnace_temperature_control.mdl # The core Simulink model
+
 code
 Code
 *(Folders for `/data`, `/docs`, and `/results` will be added as the project matures.)*
