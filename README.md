@@ -112,12 +112,9 @@ This project is not static. It is an evolving platform for demonstrating cutting
 ## 📂 Repository Structure
 FURNACE_TEMPERATURE_CONTROL/
 
-├── README.md # You are here!
-
-├── LICENSE # The MIT License for this project
-
-└── models/
-
+├── README.md # You are here!     
+├── LICENSE # The MIT License for this project   
+└── models/   
 └── furnace_temperature_control.mdl # The core Simulink model
 
 code
